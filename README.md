@@ -22,11 +22,11 @@ Will making your hobby to your job make you rich? A comparison between Hobbyist
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available [here](https://github.com/m444x/StackOverflow-Survey-2019/blob/master/Stack%20Overflow%20Survey.ipynb) to showcase work related to the questions above.  In this notebook I go through the stack overflow survey data and answer the questions above.
+There is one notebook available [here](https://github.com/PeterHuesson/udacity_nanodegree/blob/master/blog_post.ipynb) to showcase work related to the questions above.  In this notebook I go through the stack overflow survey data and answer the questions above.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://toDo).
+The main findings of the code can be found at the blog post on Medium. Click: [here](https://medium.com/@peter.huesson/will-making-your-hobby-to-your-job-make-you-rich-ec9cdeba979).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
