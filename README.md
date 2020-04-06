@@ -14,20 +14,19 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using Stack Overflow data from 2019 to better understand:
 
-What coding skills are expected 2020 in Germany? plans from full-time employees on Stack Overflow compared
+Will making your hobby to your job make you rich? A comparison between Hobbyists and no Hobbyists
 
-- Which programming language do developers plan to work with in 2020?
-- Which database do developers plan to work with in 2020?
-- On which platform do the participants plan to work in 2020?
-- Does professional coding experience have an impact on salary?
+- Are people who program in their free time more satisfied in their job?
+- Do developers who program also as a hobby make more money?
+- Will this additional training and expertise pay off in the long run?
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available [here](https://github.com/m444x/StackOverflow-Survey-2019/blob/master/Stack%20Overflow%20Survey.ipynb) to showcase work related to the above questions.  This notebook is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There is one notebook available [here](https://github.com/m444x/StackOverflow-Survey-2019/blob/master/Stack%20Overflow%20Survey.ipynb) to showcase work related to the questions above.  In this notebook I go through the stack overflow survey data and answer the questions above.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@bluebullet/what-coding-skills-are-expected-in-germany-in-2020-e19281dddf6b).
+The main findings of the code can be found at the post available [here](https://toDo).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
